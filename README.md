@@ -5,7 +5,7 @@ This repository is about all UI Components.
 
 ###### Screenshot
 
-![](Blog_Cards/Images/Blog_Cards.png)
+![](Blog_Cards/images/Blog_Cards.png)
 
 ### Login Page
 
