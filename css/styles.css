@@ -1,3 +1,27 @@
+body {
+  background-color: #d3dedc;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 350px;
+  color: #7c99ac;
+}
+
+.Lists {
+  margin-left: 600px;
+}
+
+ul {
+  color: #7c99ac;
+}
+
+.Lists a {
+  font-size: 22px;
+  color: #7c99ac;
+  text-decoration: none;
+}
+
 .ml12 {
   font-weight: 200;
   font-size: 1.8em;
