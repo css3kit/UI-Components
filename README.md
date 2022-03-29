@@ -1,8 +1,6 @@
 # UI-Components
 ## This repository is about all UI Components.
 
-### Website Link: <a href="https://iamabhi9v.github.io/UI-Components/">UI Components</a>
-
 ### Blog Cards
 
 ###### Screenshot
